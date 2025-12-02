@@ -1,0 +1,3 @@
+1|playing|play|4|251203|1
+2|studying|study|2|250113|0
+3|videos|youtube|3|251128|0
