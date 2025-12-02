@@ -1,2 +1,2 @@
 # DS-Project
-to-do list for data structures project
+Swift Task Flow (To-Do List)
