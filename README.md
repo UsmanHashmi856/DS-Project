@@ -78,21 +78,8 @@ How to Run
 Requirements: A C++ compiler supporting C++11 or later.
 
 Compile using GCC:
-
-bash
 g++ main.cpp -o SwiftTaskFlow -std=c++11
 
-
-Run:
-
-bash
-./SwiftTaskFlow
-
-
-On Windows:
-
-bash
-SwiftTaskFlow.exe
 
 
 The tasks.txt file is created automatically when the user saves the tasks.
