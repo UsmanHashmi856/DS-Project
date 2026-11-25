@@ -90,7 +90,7 @@ Experience with dynamic memory allocation and pointers.
 Understanding of recursive tree operations and inorder traversal.
 Application of searching, sorting, insertion, and deletion.
 Experience with file-based data persistence.
-🔮 Future Improvements
+Future Improvements
 Add a graphical user interface.
 Implement automatic saving after every modification.
 Add overdue task notifications.
